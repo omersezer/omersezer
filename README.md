@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello. I am Ömer Sezer. I graduated from Sakarya University Computer Engineering in 2018. I joined the training program at Microsoft in 2017. I have been working as a mobile application developer at Mobilist since 2018. I develop mobile applications with Xamarin Forms, Xamarin Native and Swift.
 
 <!--
 **omersezer/omersezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
